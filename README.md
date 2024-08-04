@@ -2,25 +2,33 @@
 
 Hi there! I'm Rutuja Kokate, an aspiring Data Scientist and AI/ML Engineer, currently pursuing my Master's in Data Analytics at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills.
 
-![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
-
 ## About Me
 
 I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, with a strong foundation in Python, SQL, and various AI/ML tools. My journey in the tech industry spans over 4.5 years, where I've honed my skills in data analysis, resource optimization, and performance enhancement at organizations like Accenture, Allscripts, and Mphasis.
 
 ## Skills & Expertise
 
-- **Programming Languages:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
-- **AI/ML Tools:**
-  - ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  - ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-  - ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white)
-- **Data Visualization:**
-  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-  - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" height="40">
+</p>
+
+### AI/ML Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white" height="40">
+</p>
+
+### Data Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" height="40">
+</p>
+
+### Additional Expertise
 - **Natural Language Processing (NLP):** Implementation of deep learning algorithms for paraphrase identification and sentiment analysis
 - **Machine Learning:** Model development, ML pipelines, handling large datasets
 - **ETL & Data Integration:** Efficient data processing and integration for insightful analysis
@@ -34,6 +42,8 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 - **HR GPT - Human Resource Portal:** A submission for the Nvidia GenAI Agent Contest, highlighting my expertise in building LLM-powered applications.
 - **Paraphrase Identification Using Quora Question Pairs:** A deep learning project focused on natural language processing.
 - **Retail Sales Data Analysis for E-commerce:** Data analysis and visualization project using SQL, Python, and Tableau.
+
+![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
 ## Certifications
 
@@ -56,15 +66,6 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 
 > "I worked with many professionals throughout my career, but Rutuja is unique. She was quick to learn and always willing to go the extra mile to deliver services to customers. Her expertise in scripting helped our team come up with more efficient solutions. I highly recommend Rutuja and would love to work with her again."  
 > **Manish Shinde** - Associate Vice President
-
-> "Rutuja is such a delightful person to have around in the team. She is always enthusiastic to learn and execute. She goes the extra mile to adapt to changing business requirements and automate mundane tasks using PowerShell scripts. Thank you for all your support!"  
-> **Teena Tanna** - ServiceNow Consultant; Service Management Practice Lead
-
-> "There is no better team member than Rutuja. She is one of the most dedicated professionals I’ve worked with and is willing to put in that extra help whenever needed. Her learning attitude, enthusiasm, and hard work are commendable. I highly recommend Rutuja and would love to work with her again."  
-> **Nilesh Chavan** - Infrastructure Manager
-
-> "I know Rutuja to be a logical thinker and a problem solver. She cleverly uses her logical thinking to complement her problem-solving skills. Rutuja is also highly resourceful, ensuring that her deliverables always exceed expectations regardless of the tools provided to her."  
-> **Jobin John Kurian** - DevOps Engineer, UBS
 
 Feel free to explore my repositories and projects. I'm always excited to connect with like-minded professionals and explore opportunities to collaborate on cutting-edge projects. Let's connect and innovate together!
 
