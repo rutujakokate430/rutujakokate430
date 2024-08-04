@@ -10,19 +10,21 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 
 ## Skills & Expertise
 
-<p align="right">
-  <strong>Programming Languages</strong><br>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" height="40"><br><br>
-  <strong>AI/ML Tools</strong><br>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white" height="40"><br><br>
-  <strong>Data Visualization</strong><br>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" height="40">
-</p>
+- **Programming Languages:**
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
+- **AI/ML Tools:**
+  - ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  - ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+  - ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white)
+- **Data Visualization:**
+  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+  - ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+- **Natural Language Processing (NLP):** Implementation of deep learning algorithms for paraphrase identification and sentiment analysis
+- **Machine Learning:** Model development, ML pipelines, handling large datasets
+- **ETL & Data Integration:** Efficient data processing and integration for insightful analysis
+- **Generative AI & AI Agents:** Experience in building LLM-powered applications and implementing Retrieval-Augmented Generation (RAG)
 
 ### Additional Expertise
 - **Natural Language Processing (NLP):** Implementation of deep learning algorithms for paraphrase identification and sentiment analysis
