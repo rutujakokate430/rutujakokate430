@@ -2,7 +2,7 @@
 
 Hi there! I'm Rutuja Kokate, an aspiring Data Scientist and AI/ML Engineer, currently pursuing my Master's in Data Analytics at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills.
 
-![Data Science](https://rentechdigital.com/swipecart/blog/What-is-data-science-and-how-can-it-influence-decision-making.gif)
+![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
 ## About Me
 
