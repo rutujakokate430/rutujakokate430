@@ -1,4 +1,5 @@
-# Welcome to My GitHub! 🌟
+<h1 align="center">Hi 👋, I'm Rutuja</h1>
+<h3 align="center">Exploring Generative-AI Applications</h3>
 
 Hi there! 👋 I'm Rutuja Kokate, an aspiring Data Scientist and AI/ML Engineer, currently pursuing my Master's in Data Analytics at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills.
 
