@@ -6,24 +6,20 @@ Hi there! I'm Rutuja Kokate, an aspiring Data Scientist and AI/ML Engineer, curr
 
 I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, with a strong foundation in Python, SQL, and various AI/ML tools. My journey in the tech industry spans over 4.5 years, where I've honed my skills in data analysis, resource optimization, and performance enhancement at organizations like Accenture, Allscripts, and Mphasis.
 
+![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
+
 ## Skills & Expertise
 
-### Programming Languages
-<p align="center">
+<p align="right">
+  <strong>Programming Languages</strong><br>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" height="40">
-</p>
-
-### AI/ML Tools
-<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" height="40"><br><br>
+  <strong>AI/ML Tools</strong><br>
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white" height="40">
-</p>
-
-### Data Visualization
-<p align="center">
+  <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white" height="40"><br><br>
+  <strong>Data Visualization</strong><br>
   <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black" height="40">
 </p>
@@ -42,8 +38,6 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 - **HR GPT - Human Resource Portal:** A submission for the Nvidia GenAI Agent Contest, highlighting my expertise in building LLM-powered applications.
 - **Paraphrase Identification Using Quora Question Pairs:** A deep learning project focused on natural language processing.
 - **Retail Sales Data Analysis for E-commerce:** Data analysis and visualization project using SQL, Python, and Tableau.
-
-![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
 ## Certifications
 
