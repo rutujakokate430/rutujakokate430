@@ -78,3 +78,6 @@ Feel free to explore my repositories and projects. I'm always excited to connect
 📧 Contact: [rutujakokate430@gmail.com](mailto:rutujakokate430@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rutuja-kokate-757107146)  
 🐱 [GitHub](https://github.com/rutujakokate430)
+
+
+### Credits for the Gif: the Gif has been taken from the URL- (https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
