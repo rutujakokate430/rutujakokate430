@@ -80,4 +80,4 @@ Feel free to explore my repositories and projects. I'm always excited to connect
 🐱 [GitHub](https://github.com/rutujakokate430)
 
 
-### Credits for the Gif: the Gif has been taken from the URL- (https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
+Credits for the Gif: the Gif has been taken from the URL- (https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
