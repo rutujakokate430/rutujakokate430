@@ -11,8 +11,9 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 
 
 ## 🔍 My Interests
-I embrace a lifelong learning mindset, constantly seeking opportunities to expand my expertise by treating every experience as an opportunity for growth and improvement. I am Interested in All things Data Science and AI
- **DATA > Openions**
+I embrace a lifelong learning mindset, constantly seeking opportunities to expand my expertise by treating every experience as an opportunity for growth and improvement.
+I am Interested in All things Data Science and AI.
+**DATA > Openions**
 
 ## 🌱 Currently Learning
 Mapping the uncharted territories of Deep Learning Neaural Networks.
