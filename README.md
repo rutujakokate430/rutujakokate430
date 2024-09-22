@@ -9,6 +9,11 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 
 ![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
+
+## 🔍 My Interests
+
+## 🌱 Currently Learning
+
 ## Skills & Expertise
 
 - **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
