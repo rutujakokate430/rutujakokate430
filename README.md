@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutuja</h1>
 <h3 align="center">Eat 🍔 Sleep 😴 Data Science 👩‍💻 Repeat 🔁</h3>
 
-Hi there! 👋 I'm Rutuja Kokate, an aspiring Data Scientist and AI/ML Engineer, currently pursuing my Master's in Data Analytics at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills.
+Hi there! 👋 I'm Rutuja, an AI/ML Engineer, currently pursuing my Master's in Data Science at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills. I am all set to graduate in May 2025 and looking our for full time opportunities to grow and contribute!
 
 ## About Me
 
