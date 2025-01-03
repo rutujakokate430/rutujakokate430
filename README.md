@@ -16,10 +16,10 @@ I am Interested in All things Data Science and AI.
 **DATA > opinions**
 
 ## 🌱 Currently Learning
-Mapping the uncharted territories of Deep Learning Neaural Networks.
-Building a Chatbot with personality! 
-Eat Sleep ETL/EDA Repeat 🔁
-Building PowerBI Reports 📈
+- Mapping the uncharted territories of Deep Learning Neaural Networks.
+- Building a Chatbot with personality! 
+- Eat Sleep ETL/EDA Repeat 🔁
+- Building PowerBI Reports 📈
 
 ## Skills & Expertise
 
