@@ -12,12 +12,9 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujakokate430&theme=radical" alt="GitHub Streak" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujakokate430&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujakokate430&theme=radical" alt="GitHub Streak" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujakokate430&layout=compact&theme=radical" alt="Top Languages" width="33%"/>
 </p>
 
 ## 🔍 My Interests
