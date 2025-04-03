@@ -12,11 +12,16 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujakokate430&theme=radical" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujakokate430&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
