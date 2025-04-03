@@ -12,8 +12,7 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujakokate430&layout=compact&theme=radical" alt="Top Languages" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" width="43%"/>
 </p>
 
 ## 🔍 My Interests
