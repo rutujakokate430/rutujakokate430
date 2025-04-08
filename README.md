@@ -48,7 +48,7 @@ I am Interested in All things Data Science and AI.
   <!-- Keras -->
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/> </a>
   <!-- LangChain -->
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="LangChain" width="40" height="40"/> </a>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/LangChain_Logo_2023.png" alt="LangChain" width="40" height="40"/> </a>
   <!-- PowerBI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> </a>
   <!-- Tableau -->
@@ -60,6 +60,7 @@ I am Interested in All things Data Science and AI.
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
 </p>
+
 
 
 
