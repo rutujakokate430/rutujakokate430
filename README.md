@@ -9,12 +9,6 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 
 ![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujakokate430&show_icons=true&theme=radical" alt="GitHub Stats" width="43%"/>
-</p>
-
 ## 🔍 My Interests
 I embrace a lifelong learning mindset, constantly seeking opportunities to expand my expertise by treating every experience as an opportunity for growth and improvement.
 I am Interested in All things Data Science and AI.
