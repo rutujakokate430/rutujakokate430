@@ -7,6 +7,9 @@ Hi there! 👋 I'm Rutuja, an AI/ML Engineer, currently pursuing my Master's in 
 
 I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, with a strong foundation in Python, SQL, and various AI/ML tools. My journey in the tech industry spans over 4.5 years, where I've honed my skills in data analysis, resource optimization, and performance enhancement at organizations like Accenture, Allscripts, and Mphasis.
 
+  ![Snake animation](https://raw.githubusercontent.com/RutujaDS/RutujaDS/output/github-contribution-grid-snake.svg)
+
+
 ![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
 ## 🔍 My Interests
