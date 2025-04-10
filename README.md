@@ -3,6 +3,9 @@
 
 Hi there! 👋 I'm Rutuja, an AI/ML Engineer, currently pursuing my Master's in Data Science at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills. I am all set to graduate in May 2025 and looking our for full time opportunities to grow and contribute!
 
+![GitHub Snake](https://raw.githubusercontent.com/rutujakokate430/rutujakokate430/output/github-contribution-grid-snake.svg)
+
+
 ## About Me
 
 I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, with a strong foundation in Python, SQL, and various AI/ML tools. My journey in the tech industry spans over 4.5 years, where I've honed my skills in data analysis, resource optimization, and performance enhancement at organizations like Accenture, Allscripts, and Mphasis.
