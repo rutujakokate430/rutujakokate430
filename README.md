@@ -1,10 +1,49 @@
-<h1 align="center">Hi 👋, I'm Rutuja</h1>
-<h3 align="center">Eat 🍔 Sleep 😴 Data Science 👩‍💻 Repeat 🔁</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Rutuja.;AI%2FML+Engineer+%7C+Data+Scientist.;ML+%2B+ETL+%2B+LLM+%7C+RAG+%7C+AgenticAI+Lover.;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 
 Hi there! 👋 I'm Rutuja, an AI/ML Engineer, currently pursuing my Master's in Data Science at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills. I am all set to graduate in May 2025 and looking our for full time opportunities to grow and contribute!
 
 ![GitHub Snake](https://raw.githubusercontent.com/rutujakokate430/rutujakokate430/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <a href="mailto:rutujakokate430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rutuja-kokate-757107146/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<h2 align="center">🛠️ Languages • Frameworks • Tools 🛠️</h2>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+  <!-- Machine Learning / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
+
+  <!-- Cloud / Deployment -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+
+  <!-- BI & Analytics -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" height="40" alt="Power BI"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQL"/>
+</p>
 
 ## About Me
 
@@ -22,44 +61,6 @@ I am Interested in All things Data Science and AI.
 - Building a Chatbot with personality! 
 - Eat Sleep ETL/EDA Repeat 🔁
 - Building PowerBI Reports 📈
-
-## Skills & Expertise
-
-- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
-- **AI/ML Tools:** ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white)
-- **Data Visualization:** ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-- **Additional Expertise:** Natural Language Processing (NLP), Machine Learning, ETL & Data Integration, Generative AI & AI Agents
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
-  <!-- SQL -->
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> </a>
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
-  <!-- Keras -->
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/> </a>
-  <!-- LangChain -->
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/LangChain_Logo_2023.png" alt="LangChain" width="40" height="40"/> </a>
-  <!-- PowerBI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> </a>
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-</p>
-
-
-
 
 ## Notable Projects
 
