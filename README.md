@@ -10,7 +10,6 @@
 ## 🚀 About Me
 
 I’m an AI/ML Engineer with **4.5+ years** of experience across roles at **Accenture**, **Allscripts**, and **Mphasis**. Skilled in **Machine Learning**, **Data Science**, **ETL pipelines**, and working with LLM-powered applications. Proficient in **Python**, **SQL**, and cloud platforms like **Azure** and **OCI**.
-
 Now that I’ve graduated (May 2025), I’m actively seeking **full-time opportunities** where I can drive insight-led decisions and build scalable AI solutions.
 ---
 
