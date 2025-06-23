@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Rutuja.;AI%2FML+Engineer+%7C+Data+Scientist.;ML+%2B+ETL+%2B+LLM+%7C+RAG+%7C+AgenticAI+Lover.;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Rutuja Kokate 
-
 🎓 Master’s in Data Science @ San Jose State University (Graduated May 2025)  
 🔍 Passionate about AI-driven solutions and data analytics | Lifelong learner  
 
