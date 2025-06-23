@@ -3,7 +3,30 @@
 </p>
 
 
-Hi there! 👋 I'm Rutuja, an AI/ML Engineer, currently pursuing my Master's in Data Science at San Jose State University. My passion for solving complex real-world problems through data science and AI drives me to constantly push the boundaries of my knowledge and skills. I am all set to graduate in May 2025 and looking our for full time opportunities to grow and contribute!
+# 👋 Hi, I'm Rutuja Kokate — AI/ML Engineer | Data Scientist
+
+🎓 Master’s in Data Science @ San Jose State University (Graduated May 2025)  
+🔍 Passionate about AI-driven solutions and data analytics | Lifelong learner  
+
+---
+
+## 🚀 About Me
+
+I’m an AI/ML Engineer with **4.5+ years** of experience across roles at **Accenture**, **Allscripts**, and **Mphasis**. Skilled in **Machine Learning**, **Data Science**, **ETL pipelines**, and working with LLM-powered applications. Proficient in **Python**, **SQL**, and cloud platforms like **Azure** and **OCI**.
+
+Now that I’ve graduated (May 2025), I’m actively seeking **full-time opportunities** where I can drive insight-led decisions and build scalable AI solutions.
+
+---
+
+## 💡 Areas of Focus
+
+- 🤖 AI/ML, LLMs, Generative AI, NLP  
+- 🔍 Data Analysis, EDA & ETL  
+- 🧠 Deep Learning & Neural Networks  
+- 📊 BI & Visualization (PowerBI, Tableau)  
+- 🧩 LeetCode problem solving: [🔗 My Profile](https://leetcode.com/u/RUTUJAK123/)
+
+---
 
 ![GitHub Snake](https://raw.githubusercontent.com/rutujakokate430/rutujakokate430/output/github-contribution-grid-snake.svg)
 
@@ -51,38 +74,49 @@ I'm enthusiastic about the fields of Data Science, AI, and Machine Learning, wit
 
 ![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
 
-## 🔍 My Interests
-I embrace a lifelong learning mindset, constantly seeking opportunities to expand my expertise by treating every experience as an opportunity for growth and improvement.
-I am Interested in All things Data Science and AI.
-**DATA > opinions**
+## 🔨 Notable Projects
 
-## 🌱 Currently Learning
-- Mapping the uncharted territories of Deep Learning Neaural Networks.
-- Building a Chatbot with personality! 
-- Eat Sleep ETL/EDA Repeat 🔁
-- Building PowerBI Reports 📈
-- Grading Leetcode Problems- https://leetcode.com/u/RUTUJAK123/
+### 🧠 HR GPT – Human Resource Agent Portal  
+- Developed for the **Nvidia GenAI Agent Contest**  
+- Multi-agent, LLM-powered HR assistant streamlining recruiting, onboarding, & FAQs  
+- Achieved **Tier 1 ranking** (between 14th and 113th) and won a free Nvidia course
 
-## Notable Projects
+### 🤝 CrewAI – Team Management Assistant  
+- Designed an AI-driven platform for optimizing scheduling, task assigning, and real-time collaboration  
+- Integrated team sentiment analysis to improve productivity and morale
 
-- **Bay Area Ridership Prediction:** A project utilizing NOAA weather data and VTA transit data to model and predict ridership on VTA stops.
-- **Breast Cancer Classification:** Implementation of logistic regression models for classifying breast cancer.
-- **LLM Powered YouTube Assistant App:** An AI assistant for YouTube, showcasing the integration of language models in real-world applications.
-- **HR GPT - Human Resource Portal:** A submission for the Nvidia GenAI Agent Contest, highlighting my expertise in building LLM-powered applications.
-- **Paraphrase Identification Using Quora Question Pairs:** A deep learning project focused on natural language processing.
-- **Retail Sales Data Analysis for E-commerce:** Data analysis and visualization project using SQL, Python, and Tableau.
+### 🛴 Bay Area Ridership Prediction  
+- Merged NOAA weather data with VTA transit usage and built regression models to forecast ridership
 
-## Certifications
+### 🛍 Retail E‑commerce Sales Analysis  
+- Conducted deep analysis using SQL, Python, and Tableau to surface trends and actionable insights  
 
-- **Microsoft Certified: Azure Fundamentals**
-- **HackerRank SQL (Intermediate) Certificate**
-- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
+### 🎗 Breast Cancer Classification  
+- Logistic regression implementation to predict malignant vs benign cases
 
-## Honors & Awards
+### 🔁 Paraphrase Identification (Quora Question Pairs)  
+- NLP-based deep learning model to detect text similarity in question pairs
 
-- **Summit Award:** Customer recognition for automation
-- **Nvidia GenAI Agent Contest Prize:** Secured a rank between 14th and 113th, receiving a free course from Nvidia.
+### 🎥 LLM‑Powered YouTube Assistant App  
+- Built an intelligent assistant using large language models to enhance video interaction
 
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: Azure Fundamentals  
+- Oracle Cloud Infrastructure 2024 – Generative AI Certified Professional  
+- HackerRank SQL (Intermediate)
+
+---
+
+## 🏆 Awards & Recognition
+
+- **Summit Award** — Recognized for client-facing automation excellence  
+- **Nvidia GenAI Agent Contest** — Tier 1 placement (ranked between 14–113) & won a course  
+- Celebrated for impact-driven scripting and machine learning contributions
+
+---
 ## Recommendations
 
 > "Rutuja possesses excellent communication skills and is able to translate complicated technical changes into business language that is easily understood. Rutuja doesn’t shy away from complex tasks and takes full accountability for any tasks set through to completion. She is a pleasure to work with and would be a great asset to any company lucky enough to have her."  
