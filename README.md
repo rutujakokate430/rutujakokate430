@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Rutuja.;AI%2FML+Engineer+%7C+Data+Scientist.;ML+%2B+ETL+%2B+LLM+%7C+RAG+%7C+AgenticAI+Lover.;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
 # 👋 Hi, I'm Rutuja Kokate — AI/ML Engineer | Data Scientist
 
 🎓 Master’s in Data Science @ San Jose State University (Graduated May 2025)  
@@ -15,17 +14,6 @@
 I’m an AI/ML Engineer with **4.5+ years** of experience across roles at **Accenture**, **Allscripts**, and **Mphasis**. Skilled in **Machine Learning**, **Data Science**, **ETL pipelines**, and working with LLM-powered applications. Proficient in **Python**, **SQL**, and cloud platforms like **Azure** and **OCI**.
 
 Now that I’ve graduated (May 2025), I’m actively seeking **full-time opportunities** where I can drive insight-led decisions and build scalable AI solutions.
-
----
-
-## 💡 Areas of Focus
-
-- 🤖 AI/ML, LLMs, Generative AI, NLP  
-- 🔍 Data Analysis, EDA & ETL  
-- 🧠 Deep Learning & Neural Networks  
-- 📊 BI & Visualization (PowerBI, Tableau)  
-- 🧩 LeetCode problem solving: [🔗 My Profile](https://leetcode.com/u/RUTUJAK123/)
-
 ---
 
 ![GitHub Snake](https://raw.githubusercontent.com/rutujakokate430/rutujakokate430/output/github-contribution-grid-snake.svg)
@@ -70,6 +58,16 @@ Now that I’ve graduated (May 2025), I’m actively seeking **full-time opportu
 
 
 ![Data Science](https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif)
+
+---
+
+## 💡 Areas of Focus
+
+- 🤖 AI/ML, LLMs, Generative AI, NLP  
+- 🔍 Data Analysis, EDA & ETL  
+- 🧠 Deep Learning & Neural Networks  
+- 📊 BI & Visualization (PowerBI, Tableau)  
+- 🧩 LeetCode problem solving: [🔗 My Profile](https://leetcode.com/u/RUTUJAK123/)
 
 ## 🔨 Notable Projects
 
